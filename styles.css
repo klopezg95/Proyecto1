@@ -263,17 +263,19 @@ li a.active, li a:hover{
 
 
     .TITULO{
-        font-size: 50px;
+        font-size: 70px;
         position: absolute;
-        top: 45%;
+        top: 40%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
+
+    
     .clearfix{
         margin: 50px 0px;
     }
     .TITULO{
-        display: none;
+        width: auto;
     }
     .blog{
         height: auto;
@@ -406,12 +408,13 @@ li a.active, li a:hover{
         cursor: pointer;
     }
     .TITULO{
-        font-size: 50px;
+        font-size: 80px;
         position: absolute;
-        top: 45%;
+        top: 38%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
+    
     .jumbotron img{
         display: block;
         margin-left: auto;
@@ -516,9 +519,9 @@ li a.active, li a:hover{
 
 @media only screen and (min-width: 768px) {
     .TITULO{
-        font-size: 50px;
+        font-size: 100px;
         position: absolute;
-        top: 45%;
+        top: 35%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
@@ -625,9 +628,9 @@ li a.active, li a:hover{
 }
 @media only screen and (min-width: 992px) {
     .TITULO{
-        font-size: 50px;
+        font-size: 100px;
         position: absolute;
-        top: 45%;
+        top: 40%;
         left: 50%;
         transform: translate(-50%, -50%); 
     }
